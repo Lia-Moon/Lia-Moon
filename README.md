@@ -3,9 +3,8 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77CEA&center=true&vCenter=true&width=435&lines=Software+Engineer+Student%2C;Front-end+Developer%2C;Gamer%2C;Active+Learner" alt="Typing SVG" /></a></p>
-  
-<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJmODMzOWRmN2VkMWM3MjhkMGY1MTVmODE4MDE3ODkyN2VlOTBkNCZjdD1z/paTz7UZbPfTZFRYnnB/giphy.gif" width="280"/></p>
 
+<p align="center"><img src="https://user-images.githubusercontent.com/112638042/230483969-c4470882-0d4c-45c7-ae80-75213bcfaa98.gif" width="240"/></p>
 
 
 <!-- <iframe src="https://giphy.com/embed/paTz7UZbPfTZFRYnnB" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mrurbinaco-mr-urbina-office-paTz7UZbPfTZFRYnnB">via GIPHY</a></p> -->
