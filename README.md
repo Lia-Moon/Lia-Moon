@@ -13,6 +13,10 @@
 <!-- 
 https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/0xabdulkhalid.md?plain=1
 
+https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/1999azzar.md
+
+https://skyline.github.com/
+
 <iframe src="https://giphy.com/embed/FlJbvchalNGPH6M43X" width="480" height="369" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/coding-programmer-code-like-a-boss-FlJbvchalNGPH6M43X">via GIPHY</a></p>
 
 -->
